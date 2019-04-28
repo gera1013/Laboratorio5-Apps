@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Inventory</string>
+
+    <string name="editText1_text">Nombre</string>
+    <string name="editText2_text">Código</string>
+    <string name="newProd">Nuevo producto</string>
+    <string name="restartProd">Reiniciar lista</string>
+    <string name="title_nuevoProducto">Agregar producto</string>
+    <string name="save">Save</string>
+    <string name="invProd">Inventario actual</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
